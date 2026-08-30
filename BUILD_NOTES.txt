@@ -1,0 +1,13 @@
+OUACC current staging build.
+
+Key changes in this pass:
+- Larger header crest and boxed Join action.
+- Hover and keyboard accessible dropdown navigation.
+- Homepage hero credit removed.
+- University Parks kicker restored on homepage location feature.
+- Our partners placeholder added to footer and right rail.
+- Right rail headings use the actual section name.
+- Requested editorial photos removed.
+- Cuppers results page restyled and rewritten.
+- Advanced Weekend page removed and navigation references removed.
+- Partnerships, Partner with us, Members area, Alumni, Hall of Fame and Alumni community pages added.

@@ -472,3 +472,43 @@ a:hover { color: var(--green); }
     .footer-shell { grid-template-columns: 1fr; }
     .footer-note { grid-column: auto; }
 }
+
+
+/* OUACC 2026 refinement layer */
+.nav-shell { min-height: 76px; }
+.brand-mark { height: 58px; }
+.brand { gap: 14px; }
+.brand-name { font-size: 17px; }
+.brand-subtitle { font-size: 8.2px; }
+.brand-year { font-size: 7.8px; }
+.main-nav > a, .nav-parent { white-space: nowrap; }
+.main-nav > a:last-child { background: var(--gold); color: var(--blue) !important; border-bottom-color: var(--gold); margin-left: 7px; padding-left: 13px; padding-right: 13px; }
+.main-nav > a:last-child:hover { background: #efbd48; color: var(--blue) !important; }
+.dropdown-menu { z-index: 120; }
+.side-rail h2 { text-transform: none; letter-spacing: 0; font-size: 15px; }
+.side-promo { margin-top: 22px; padding: 13px; background: var(--white); border: 1px solid var(--line); border-top: 2px solid var(--gold); }
+.side-promo .section-label { margin-bottom: 8px; }
+.side-promo img { max-width: 120px; width: auto; max-height: 34px; object-fit: contain; margin: 1px 0 5px; }
+.side-promo p { margin: 4px 0 0; font-size: 10.5px; line-height: 1.45; }
+.partner-banner { margin: 24px 0 0; padding: 18px 20px; background: rgba(255,255,255,.045); border-top: 1px solid rgba(255,255,255,.16); }
+.partner-banner .partner-label { display:block; margin-bottom: 9px; color: var(--gold); font-size: 9px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
+.partner-banner img { width: auto; height: 27px; max-width: 145px; object-fit: contain; filter: brightness(0) invert(1); opacity: .92; }
+.hero-credit { display: none; }
+.page-photo.compact { max-width: 720px; }
+.page-photo figcaption { background: var(--paper); }
+.card-link-overlay:focus-visible { outline: 2px solid var(--gold); outline-offset: -3px; }
+.home-photo { min-height: 400px; }
+.home-hero-inner { min-height: 400px; }
+
+@media (max-width: 980px) {
+  .main-nav > a, .nav-parent { padding-left: 6px; padding-right: 6px; font-size: 8.6px; }
+  .main-nav > a:last-child { margin-left: 3px; padding-left: 9px; padding-right: 9px; }
+}
+@media (max-width: 850px) {
+  .brand-mark { height: 52px; }
+  .main-nav > a:last-child { margin-left: 0; }
+}
+@media (max-width: 600px) {
+  .partner-banner img { height: 24px; }
+  .content { padding: 22px 20px 25px; }
+}
