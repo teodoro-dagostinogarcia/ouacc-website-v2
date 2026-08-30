@@ -512,3 +512,36 @@ a:hover { color: var(--green); }
   .partner-banner img { height: 24px; }
   .content { padding: 22px 20px 25px; }
 }
+
+
+/* Final polish adjustments, 2026-08-30 */
+.brand-mark {
+    height: 60px;
+}
+.main-nav > a.nav-join {
+    margin-left: 8px;
+    padding-left: 13px;
+    padding-right: 13px;
+    background: var(--gold);
+    color: var(--blue) !important;
+    border-bottom-color: var(--gold);
+}
+.main-nav > a.nav-join:hover,
+.main-nav > a.nav-join:focus-visible {
+    background: #efbd48;
+    color: var(--blue) !important;
+}
+.side-promo .section-label {
+    text-transform: uppercase;
+}
+.partner-banner .partner-label {
+    text-transform: uppercase;
+}
+@media (max-width: 850px) {
+    .brand-mark { height: 52px; }
+    .main-nav > a.nav-join {
+        margin-left: 0;
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+}
