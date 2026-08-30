@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student Championships | OUACC</title>
+  <meta name="description" content="Student Championships, OUACC.">
+  <link rel="icon" href="../favico.ico">
+  <link rel="stylesheet" href="../ouacc-modern.css">
+  <script src="../ouacc.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+<header class="site-header">
+  <div class="nav-shell">
+    <a class="brand" href="../index.shtml" aria-label="OUACC home">
+      <img class="brand-mark" src="../OUCC_CREST.png" alt="OUACC crest">
+      <span class="brand-copy">
+        <span class="brand-name">OUACC</span>
+        <span class="brand-subtitle">Oxford University Association Croquet Club</span>
+        <span class="brand-year">Established 1867</span>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false">Menu</button>
+    <nav class="main-nav" id="primary-nav" aria-label="Primary navigation">
+      <a class="nav-link" href="../index.shtml">Home</a><a class="nav-link" href="../oucc/about.shtml">The Club</a><a class="nav-link" href="../coaching/howtoplay.shtml">Play</a><a class="nav-link" href="../college/cuppersintro.shtml">Cuppers</a><a class="nav-link" href="../varsity">Varsity</a><a class="nav-link active" href=".">Fixtures</a><a class="nav-link" href="../oucc/history.shtml">History</a><a class="nav-link" href="../oucc/join.shtml">Join</a>
+    </nav>
+  </div>
+</header>
+<main id="main-content">
+  <div class="page-shell">
+    <div class="breadcrumb"><a href="../index.shtml">Home</a><span aria-hidden="true">/</span><span>Student Championships</span></div>
+    <section class="page-hero" aria-labelledby="page-title">
+      <p class="eyebrow">Student Championships</p>
+      <h1 id="page-title">Student Championships</h1>
+      <div class="ornament" aria-hidden="true"></div>
+    </section>
+    <div class="content-layout">
+      <article class="content">
+        
+        <nav class="toc" aria-label="On this page"><div class="toc-title">On this page</div><ol><li class=""><a href="#event-1-the-student-open-championship">Event 1: the student open championship</a></li><li class=""><a href="#event-2-the-students-doubles-championship">Event 2: the students&#x27; doubles championship</a></li><li class=""><a href="#exceptions-and-additions-to-general-conditions">Exceptions and additions to general conditions</a></li></ol></nav>
+        <figure class="page-photo"><img alt="Student Championships" loading="lazy" src="../images/editorial/prizes_bundle_fl.jpg"><figcaption>Prizes and awards from a student competition. Photo credit: Francis Law.</figcaption></figure>
+<p>The Student Championships bring students together for singles and doubles competition. Entry, dates, accommodation and social arrangements vary by year, so check the current event information before making plans. See below for more information on accommodation. Watch this page for updates on the format of the two events, which will be given below. Please send expressions of interest for the 2023 Championship to <a href="mailto:croquet.club@studentclubs.ox.ac.uk">croquet.club@studentclubs.ox.ac.uk</a>.</p>
+<hr>
+<p>THE 2023 STUDENT CROQUET CHAMPIONSHIPS</p>
+<p>Sponsored by <a href="http://www.croquet.org.uk" target="_blank" rel="noopener noreferrer">The Croquet Association</a>.</p>
+<table>
+<tbody>
+<tr>
+<td><b>Venue:</b></td>
+<td>Oxford University, the <a href="../oucc/directions.shtml">University Parks</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="event-1-the-student-open-championship">Event 1: the student open championship</h2>
+<blockquote>A Championship for individual players, to be played under the laws of level-advanced play. The format is likely to be a variant on a Swiss tournament, with the leading four players at lunchtime on Sunday being entered into a semi-final and final in the afternoon. The final will be seeded so that competitors from the same university will not meet in the first round if possible. <b>The Dudley Hamilton Miller Cup</b>.
+ Holder: <em>Aston Wade, Exeter University </em></blockquote>
+<h2 id="event-2-the-students-doubles-championship">Event 2: the students' doubles championship</h2>
+<blockquote>Teams of 2 players from the same institution playing level-advanced doubles. The format will depend on how many teams enter. <b>The Edmund Reeve Cup</b>. Holders: <em>Felix O'Rahilly &amp; Finn Sutcliffe, Cambridge University</em></blockquote>
+<h2 id="exceptions-and-additions-to-general-conditions">Exceptions and additions to general conditions</h2>
+<ol>
+<li>The Championships are being promoted by the Croquet Association. The format will depend on the number of entries. Regional heats will be organised prior to the final if required. </li>
+<li>To be eligible to compete, an entrant must be a student registered for and following a degree, diploma or apprenticeship at a Higher Education provider (listed on the gov.uk website gov.uk/check-a-university-is-officiallyrecognised/recognised-bodies) or international equivalent. A student finishing a course of study in December or March is eligible until the end of the academic year.</li>
+<li>The cost of bed and breakfast accommodation in Oxford is likely to be in the region of £60 per day. Players are responsible for making their own accommodation arrangements and accommodation lists can be requested with the entries. Limited rough accommodation is available with the Oxford team members - please contact the Secretary.</li>
+<li>Athletic Unions may support expenses for this championship - players should apply to their own unions to determine the level of support.</li>
+</ol>
+      </article>
+      <aside class="page-aside">
+        <section class="section-index" aria-labelledby="section-index-title"><div class="section-label">Explore this section</div><h2 id="section-index-title">Related pages</h2><ul><li><a href="index.shtml">Fixtures</a></li><li><a href="studentchamps.shtml">Student Championships</a></li><li><a href="advancedweekend.shtml">Advanced weekend</a></li></ul></section>
+        <div class="aside-box sponsor-placeholder" hidden>
+          <div class="section-label">Partners</div>
+          <p>Space reserved for future sponsors.</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="footer-shell">
+    <div class="footer-branding">
+      <div class="footer-brand">OUACC</div>
+      <p>Oxford University Association Croquet Club</p>
+      <p>University Parks, Oxford</p>
+    </div>
+    <nav class="footer-links" aria-label="Footer navigation"><a href="../oucc/about.shtml">About the Club</a><a href="../oucc/join.shtml">Membership</a><a href="../oucc/committee.shtml">Committee</a><a href="../oucc/directions.shtml">Find us</a><a href="../oucc/documents.shtml">Documents</a><a href="../oucc/history.shtml">History</a></nav>
+    <div class="sponsor-panel" id="sponsors" hidden aria-hidden="true">
+      <div class="section-label light">Partners</div>
+      <div class="sponsor-logos"></div>
+    </div>
+    <div class="footer-note">Oxford University Association Croquet Club</div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Varsity report, 2012 | OUACC</title>
+  <meta name="description" content="Varsity report, 2012, OUACC.">
+  <link rel="icon" href="../../favico.ico">
+  <link rel="stylesheet" href="../../ouacc-modern.css">
+  <script src="../../ouacc.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+<header class="site-header">
+  <div class="nav-shell">
+    <a class="brand" href="../../index.shtml" aria-label="OUACC home">
+      <img class="brand-mark" src="../../OUCC_CREST.png" alt="OUACC crest">
+      <span class="brand-copy">
+        <span class="brand-name">OUACC</span>
+        <span class="brand-subtitle">Oxford University Association Croquet Club</span>
+        <span class="brand-year">Established 1867</span>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false">Menu</button>
+    <nav class="main-nav" id="primary-nav" aria-label="Primary navigation">
+      <a class="nav-link" href="../../index.shtml">Home</a><a class="nav-link" href="../../oucc/about.shtml">The Club</a><a class="nav-link" href="../../coaching/howtoplay.shtml">Play</a><a class="nav-link" href="../../college/cuppersintro.shtml">Cuppers</a><a class="nav-link active" href="..">Varsity</a><a class="nav-link" href="../../fixtures">Fixtures</a><a class="nav-link" href="../../oucc/history.shtml">History</a><a class="nav-link" href="../../oucc/join.shtml">Join</a>
+    </nav>
+  </div>
+</header>
+<main id="main-content">
+  <div class="page-shell">
+    <div class="breadcrumb"><a href="../../index.shtml">Home</a><span aria-hidden="true">/</span><span>Varsity report, 2012</span></div>
+    <section class="page-hero" aria-labelledby="page-title">
+      <p class="eyebrow">Varsity report, 2012</p>
+      <h1 id="page-title">Varsity report, 2012</h1>
+      <div class="ornament" aria-hidden="true"></div>
+    </section>
+    <div class="content-layout">
+      <article class="content">
+        <p class="archive-note"><strong>Archive:</strong> This page preserves historical material. Its wording and records are retained where they are part of the Club’s historical record.</p>
+        
+        <div class="archive-note">Archive record. Original historical or technical material is retained here for reference.</div><div class="archive-note">Historical material is retained as part of the Club archive. Contemporary summaries may be edited, but original records and results are preserved.</div>
+<p>Simon Hathrell's report on this years match can be found <a href="http://www.angliacroquet.uk/2012/varsity/varsity_match.php" target="_blank" rel="noopener noreferrer">here</a>.</p>
+      </article>
+      <aside class="page-aside">
+        <section class="section-index" aria-labelledby="section-index-title"><div class="section-label">Explore this section</div><h2 id="section-index-title">Related pages</h2><ul><li><a href="../index.shtml">Varsity</a></li><li><a href="../oxfordteam.shtml">Oxford team</a></li><li><a href="../varsity_results.shtml">Results</a></li><li><a href="../matchreports.shtml">Match reports</a></li><li><a href="../photos.shtml">Photos</a></li><li><a href="../halfblue.shtml">Half Blues</a></li><li><a href="../archive.shtml">Archive</a></li></ul></section>
+        <div class="aside-box sponsor-placeholder" hidden>
+          <div class="section-label">Partners</div>
+          <p>Space reserved for future sponsors.</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="footer-shell">
+    <div class="footer-branding">
+      <div class="footer-brand">OUACC</div>
+      <p>Oxford University Association Croquet Club</p>
+      <p>University Parks, Oxford</p>
+    </div>
+    <nav class="footer-links" aria-label="Footer navigation"><a href="../../oucc/about.shtml">About the Club</a><a href="../../oucc/join.shtml">Membership</a><a href="../../oucc/committee.shtml">Committee</a><a href="../../oucc/directions.shtml">Find us</a><a href="../../oucc/documents.shtml">Documents</a><a href="../../oucc/history.shtml">History</a></nav>
+    <div class="sponsor-panel" id="sponsors" hidden aria-hidden="true">
+      <div class="section-label light">Partners</div>
+      <div class="sponsor-logos"></div>
+    </div>
+    <div class="footer-note">Oxford University Association Croquet Club</div>
+  </div>
+</footer>
+</body>
+</html>

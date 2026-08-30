@@ -1,0 +1,36 @@
+OUACC redesign implementation notes
+
+Navigation
+- One primary navigation in the site header. Competing sub-navigation bars were removed. Section landing pages expose related pages in a single, consistent sidebar.
+- Directory entry pages have index.html mirrors for GitHub Pages while existing .shtml URLs are retained for compatibility.
+
+Editorial conventions
+- Current public-facing copy uses “court/courts” rather than “lawn/lawns”. Historical archive material is preserved as a record.
+- “the Club” is used consistently in current-facing copy.
+- Main headings use sentence case and omit terminal punctuation.
+- “About the Club” replaces “About OUACC”.
+- The repeated generic OUACC tagline has been removed.
+- Durable copy avoids unnecessary year-specific season language.
+
+Accessibility and UX
+- HTML5 doctype, semantic main/header/nav/footer elements, skip links, accessible mobile navigation, focus styles, descriptive image alt text, and improved text sizing.
+- Long pages with three or more section headings receive an “On this page” contents panel.
+- Main content remains intentionally narrow for readability, while a consistent sidebar is used for section navigation and future sponsor space.
+- Homepage feature cards are entire links, including the image and white content area.
+
+Images
+- Recent editorial images are preferred over stock imagery.
+- Recent editorial photographs carry “Photo credit: Francis Law”.
+- Production images are resized for the web, with oversized images reduced.
+- Responsive object-fit rules provide controlled crops on smaller devices.
+
+Branding
+- Supplied OUACC crest is used as the sole crest asset and regenerated as the favicon.
+- Palette: Oxford blue #042146, gold #E4AF33, green #1D593B, rose #EA9291, ivory #FAF4E5.
+- Headings: Libre Baskerville. Functional text: Inter.
+
+Sponsorship
+- A hidden sponsor panel is reserved in the footer and can be populated later without restructuring the site.
+
+URLs
+- Existing public page filenames have been retained rather than inventing new paths. GitHub Pages-compatible relative paths are used internally.

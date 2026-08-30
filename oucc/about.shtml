@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About the Club | OUACC</title>
+  <meta name="description" content="The Club, its facilities, activities and practical information.">
+  <link rel="icon" href="../favico.ico">
+  <link rel="stylesheet" href="../ouacc-modern.css">
+  <script src="../ouacc.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+<header class="site-header">
+  <div class="nav-shell">
+    <a class="brand" href="../index.shtml" aria-label="OUACC home">
+      <img class="brand-mark" src="../OUCC_CREST.png" alt="OUACC crest">
+      <span class="brand-copy">
+        <span class="brand-name">OUACC</span>
+        <span class="brand-subtitle">Oxford University Association Croquet Club</span>
+        <span class="brand-year">Established 1867</span>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false">Menu</button>
+    <nav class="main-nav" id="primary-nav" aria-label="Primary navigation">
+      <a class="nav-link" href="../index.shtml">Home</a><a class="nav-link active" href="about.shtml">The Club</a><a class="nav-link" href="../coaching/howtoplay.shtml">Play</a><a class="nav-link" href="../college/cuppersintro.shtml">Cuppers</a><a class="nav-link" href="../varsity">Varsity</a><a class="nav-link" href="../fixtures">Fixtures</a><a class="nav-link" href="history.shtml">History</a><a class="nav-link" href="join.shtml">Join</a>
+    </nav>
+  </div>
+</header>
+<main id="main-content">
+  <div class="page-shell">
+    <div class="breadcrumb"><a href="../index.shtml">Home</a><span aria-hidden="true">/</span><span>About the Club</span></div>
+    <section class="page-hero" aria-labelledby="page-title">
+      <p class="eyebrow">About the Club</p>
+      <h1 id="page-title">About the Club</h1>
+      <div class="ornament" aria-hidden="true"></div>
+    </section>
+    <div class="content-layout">
+      <article class="content">
+        
+        <nav class="toc" aria-label="On this page"><div class="toc-title">On this page</div><ol><li class=""><a href="#section-1">Club evenings</a></li><li class=""><a href="#section-2">Beginners&#x27; evenings</a></li><li class=""><a href="#section-3">Subscriptions</a></li><li class=""><a href="#section-4">Fixtures</a></li><li class=""><a href="#section-5">The Varsity match</a></li><li class=""><a href="#section-6">The Student Championships</a></li><li class=""><a href="#section-7">Code of conduct, risk assessment and constitution</a></li></ol></nav>
+        <figure class="page-photo"><img alt="Club life on the courts" loading="lazy" src="../images/editorial/coaching.jpg"><figcaption>Landscape image of members playing and talking during a coaching session. Photo credit: Francis Law.</figcaption></figure>
+<p>The historic University Croquet Club exists to promote croquet within the University at all levels. Whether you would like a social pastime or the challenge of competitive croquet - we are here to accommodate you.</p>
+<p>Members have access to two full-size courts in the University Parks, our members have access to two full-sized croquet courts in the scenic University Parks (<a href="directions.shtml">how to find us</a>), which are equipped to championship standard. Members can have their own key to the croquet hut ensuring that they have access to the courts and equipment. All required equipment is supplied and players only need bring flat-soled shoes. </p>
+<p>the Club welcomes players of all standards whether you are an absolute beginner or experienced player. As well as providing the facilities for a gentle game of croquet in the pleasant surroundings of the University Parks, we also offer coaching and arrange fixtures to suit all skill levels. Fixtures are great fun - the Club travels extensively to play other clubs in this country and abroad. </p>
+<p>Croquet can accommodate players of different ages, backgrounds and standards. Games can be played where the weaker player is given extra turns to even the odds of winning. Consequently under handicap play you can be playing against a world-class player and both sides have a good game. the Club has official referees and <a href="../coaching/handicapping.shtml">handicappers</a> who also assist in the coaching. </p>
+<h2 id="section-1">Club evenings</h2>
+<p>Wednesday evenings (5 p.m. onwards) are Club evenings when there is a high likelihood of meeting other players and committee members at the courts. This continues throughout the summer vacation.</p>
+<h2 id="section-2">Beginners' evenings</h2>
+<p>On Tue wk1, Thu wk1 and Tue wk2 we hold free coaching sessions from (5 p.m. onwards). Non-members are welcome to attend these and beginners are particularly encouraged to come along. On Tuesday of week 3 there is a further members-only coaching session. Committee members and more experienced players will be available to coach most standards of player. (This is the only occasion for non-members to try out playing on the courts. The courts do, of course, remain open to all members during this time.)</p>
+<h2 id="section-3">Subscriptions</h2>
+<p>Membership is open to both University and non-University members. We have two subscription durations, term time &amp; full season, to allow for the fact that undergraduates are not around over the summer. </p>
+<table>
+<tbody>
+<tr>
+<th>Status</th>
+<th>Membership</th>
+<th>court Use</th>
+<th>Total</th>
+</tr>
+<tr>
+<td><strong>OU Undergraduate </strong></td>
+<td>Student</td>
+<td>Term-time only (8 weeks)</td>
+<td>£12</td>
+</tr>
+<tr>
+<td><strong>OU Graduate</strong></td>
+<td>Student</td>
+<td>Full season</td>
+<td>£24</td>
+</tr>
+<tr>
+<td><strong>OU member, non-student</strong></td>
+<td>OU, non-student</td>
+<td>Full season</td>
+<td>£36</td>
+</tr>
+<tr>
+<td><strong>Non-University member</strong></td>
+<td>Non-university</td>
+<td>Full season</td>
+<td>£56</td>
+</tr>
+</tbody>
+</table>
+<br>
+<p>The deposit for a hut key is currently £6. <a href="join.shtml">More details about joining</a>.</p>
+<h2 id="section-4">Fixtures</h2>
+<p>the Club's fixtures range from A-class to beginners' fixtures and all members are encouraged to play. If you would like to play in any of these fixtures please let the <a href="committee.shtml">Captain</a> know and we'll see if we can get you in a team. </p>
+<h2 id="section-5">The Varsity match</h2>
+<p>Each year we play against Cambridge University at the Hurlingham Club in London. The format of the day is six singles games in the morning, and three doubles games in the afternoon, allowing for 6 or more Varsity Players during the day. </p>
+<p>Croquet is designated as a <b>HALF BLUE SPORT</b>, and players with appropriate handicaps at the Varsity Match are recommended for Half Blues - the threshold is 8 or below for both men and women. As in all sports, players of exceptional ability may be recommended for Full Blues. You can also see the <a href="../varsity/halfblue.shtml">list</a> of half blues awarded in the past. <a name="stuchamp"></a></p>
+ 
+ Contact the <a href="committee.shtml">Captain</a> if you would like to play. 
+<h2 id="section-6">The Student Championships</h2>
+<p>Held every year in late June, the <a href="../fixtures/studentchamps.shtml">Student Championships</a> are open to all full-time students either as individuals or as teams. Teams from abroad are welcomed.</p>
+<h2 id="section-7">Code of conduct, risk assessment and constitution</h2>
+<p>The OUACC code of conduct, constitution and its risk assessment may be downloaded here: </p>
+<ul>
+<li><a href="codeofconduct.shtml">Code of Conduct </a></li>
+<li><a href="OUACC_Safety_policy.pdf">Risk Assessment </a></li>
+<li><a href="constitution.shtml">Constitution</a></li>
+</ul>
+&lt;!-- 
+      </article>
+      <aside class="page-aside">
+        <section class="section-index" aria-labelledby="section-index-title"><div class="section-label">Explore this section</div><h2 id="section-index-title">Related pages</h2><ul><li><a href="about.shtml">About the Club</a></li><li><a href="committee.shtml">Committee</a></li><li><a href="join.shtml">Membership</a></li><li><a href="directions.shtml">Find us</a></li><li><a href="documents.shtml">Documents</a></li><li><a href="history.shtml">History</a></li></ul></section>
+        <div class="aside-box sponsor-placeholder" hidden>
+          <div class="section-label">Partners</div>
+          <p>Space reserved for future sponsors.</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="footer-shell">
+    <div class="footer-branding">
+      <div class="footer-brand">OUACC</div>
+      <p>Oxford University Association Croquet Club</p>
+      <p>University Parks, Oxford</p>
+    </div>
+    <nav class="footer-links" aria-label="Footer navigation"><a href="about.shtml">About the Club</a><a href="join.shtml">Membership</a><a href="committee.shtml">Committee</a><a href="directions.shtml">Find us</a><a href="documents.shtml">Documents</a><a href="history.shtml">History</a></nav>
+    <div class="sponsor-panel" id="sponsors" hidden aria-hidden="true">
+      <div class="section-label light">Partners</div>
+      <div class="sponsor-logos"></div>
+    </div>
+    <div class="footer-note">Oxford University Association Croquet Club</div>
+  </div>
+</footer>
+</body>
+</html>

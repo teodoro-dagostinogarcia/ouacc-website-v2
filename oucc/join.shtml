@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Membership | OUACC</title>
+  <meta name="description" content="How to join OUACC, membership options and practical information.">
+  <link rel="icon" href="../favico.ico">
+  <link rel="stylesheet" href="../ouacc-modern.css">
+  <script src="../ouacc.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+<header class="site-header">
+  <div class="nav-shell">
+    <a class="brand" href="../index.shtml" aria-label="OUACC home">
+      <img class="brand-mark" src="../OUCC_CREST.png" alt="OUACC crest">
+      <span class="brand-copy">
+        <span class="brand-name">OUACC</span>
+        <span class="brand-subtitle">Oxford University Association Croquet Club</span>
+        <span class="brand-year">Established 1867</span>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false">Menu</button>
+    <nav class="main-nav" id="primary-nav" aria-label="Primary navigation">
+      <a class="nav-link" href="../index.shtml">Home</a><a class="nav-link active" href="about.shtml">The Club</a><a class="nav-link" href="../coaching/howtoplay.shtml">Play</a><a class="nav-link" href="../college/cuppersintro.shtml">Cuppers</a><a class="nav-link" href="../varsity">Varsity</a><a class="nav-link" href="../fixtures">Fixtures</a><a class="nav-link" href="history.shtml">History</a><a class="nav-link active" href="join.shtml">Join</a>
+    </nav>
+  </div>
+</header>
+<main id="main-content">
+  <div class="page-shell">
+    <div class="breadcrumb">
+<a href="../index.shtml">Home</a><span aria-hidden="true">/</span><span>Membership</span>
+</div>
+    <section class="page-hero" aria-labelledby="page-title">
+      <p class="eyebrow">Membership</p>
+      <h1 id="page-title">Membership</h1>
+      <div class="ornament" aria-hidden="true"></div>
+    </section>
+    <div class="content-layout">
+      <article class="content">
+        
+        <nav class="toc" aria-label="On this page"><div class="toc-title">On this page</div>
+<ol>
+<li class=""><a href="#section-1">General information</a></li>
+<li class=""><a href="#section-2">Membership options</a></li>
+<li class=""><a href="#section-3">Club bank details</a></li>
+<li class=""><a href="#section-4">Application form</a></li>
+<li class=""><a href="#section-5">Further information</a></li>
+</ol></nav>
+        <figure class="page-photo"><img alt="Start with the game" loading="lazy" src="../images/editorial/learning.jpg"><figcaption>A new player learning on the University Parks courts. Photo credit: Francis Law.</figcaption></figure>
+<h2 id="section-1">General information</h2> <p>the Club uses the two full-size courts in The University Parks. The courts open for play on the Saturday of 0th Week Trinity term. There is an online booking system for the courts, which members are granted access to upon registering. No equipment may be taken away from the courts except for use in official Club matches.</p> <p>The croquet club-hut contains all the equipment required and all you need are flat-soled shoes to prevent damage to the courts. The hut is also stocked with coaching material and has a large notice board advertising events, equipment, etc.</p> <p>All members should read the <a href="byelaws.shtml">Croquet Byelaws</a>.</p> <p>Once you are accepted as a member you will receive your membership card, key if requested, court booking login, and information about the season's activities in the Club.</p> <p>Members can use the courts at any time, except when there are matches or coaching taking place. (Tuesday &amp; Thursdays, 5-6 p.m. weeks 1-4) - see the <a href="../fixtures/index.shtml">fixture calendar</a> for further details.</p> <h2 id="section-2">Membership options</h2> <p>There are two options for membership: Trinity term membership and the whole of the summer (including Trinity term). Members who sign up by the end of Michaelmas term get an early bird discount.</p> <p>Any member can also pay a deposit and receive a key to access the hut outside of club nights. The deposit is currently £6 and is additional to the membership fee.</p> <table> <tbody> <tr> <th>Membership type</th> <th>Standard</th> </tr> <tr> <td>A. OU Student Trinity term</td> <td><div>£12</div></td> </tr> <tr> <td>B. OU Student All summer</td> <td><div>£24</div></td> </tr> <tr> <td>C. OU member, non-student</td> <td><div>£36</div></td> </tr> <tr> <td>D. Non-OU member &amp; alumni</td> <td><div>£56</div></td> </tr> </tbody> </table> <p>The full season is from First Week - 30th September. 1st week changes with the religious calendar year by year.</p> <p><a name="non"></a> <strong>Non-University members and alumni</strong></p> <p> the Club welcomes experienced non-University and alumni croquet players. This arises because the Club is unable to coach novices other than at the start of the season (that free coaching is open to non-University people!) <b>The University also puts a restraint on the number of non-University members, including alumni, a club may contain </b>(currently 20%). However, no distinction is made between players once they are members, and everyone is encouraged to participate fully in the Club. Please contact the <a href="committee.shtml">Secretary</a>, if you are interested in joining the Club. Ignore the form below.</p> <h2 id="section-3">Club bank details</h2> <b>Account name:</b> Oxford University Croquet Club <br> <b>Account no:</b> 50541048 <br> <b>Sort code:</b> 54-21-23 <h2 id="section-4">Application form</h2> <p>Please contact the <a href="committee.shtml">Secretary</a> for any queries. </p>
+<h2 id="section-5">Further information</h2> If you would like any further information please get in touch with a member of the <a href="committee.shtml">Committee</a>. &lt;!-- 
+      </article>
+      <aside class="page-aside">
+        <section class="section-index" aria-labelledby="section-index-title"><div class="section-label">Explore this section</div>
+<h2 id="section-index-title">Related pages</h2>
+<ul>
+<li><a href="about.shtml">About the Club</a></li>
+<li><a href="committee.shtml">Committee</a></li>
+<li><a href="join.shtml">Membership</a></li>
+<li><a href="directions.shtml">Find us</a></li>
+<li><a href="documents.shtml">Documents</a></li>
+<li><a href="history.shtml">History</a></li>
+</ul></section>
+        <div class="aside-box sponsor-placeholder" hidden>
+          <div class="section-label">Partners</div>
+          <p>Space reserved for future sponsors.</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="footer-shell">
+    <div class="footer-branding">
+      <div class="footer-brand">OUACC</div>
+      <p>Oxford University Association Croquet Club</p>
+      <p>University Parks, Oxford</p>
+    </div>
+    <nav class="footer-links" aria-label="Footer navigation"><a href="about.shtml">About the Club</a><a href="join.shtml">Membership</a><a href="committee.shtml">Committee</a><a href="directions.shtml">Find us</a><a href="documents.shtml">Documents</a><a href="history.shtml">History</a></nav>
+    <div class="sponsor-panel" id="sponsors" hidden aria-hidden="true">
+      <div class="section-label light">Partners</div>
+      <div class="sponsor-logos"></div>
+    </div>
+    <div class="footer-note">Oxford University Association Croquet Club</div>
+  </div>
+</footer>
+</body>
+</html>
